@@ -1,0 +1,11 @@
+Render External Link: postgresql://nez:LhTJKF8AHbagTHOyrFRSkkNMeMyhBbaF@dpg-d0mtvle3jp1c738mfrjg-a.oregon-postgres.render.com/cloudcomp_vpqn
+    database="cloudcomp_vpqn",
+    user="nez",
+    password="LhTJKF8AHbagTHOyrFRSkkNMeMyhBbaF",
+    host = "dpg-d0mtvle3jp1c738mfrjg-a.oregon-postgres.render.com",
+    port = "5432"
+
+Github Link: https://github.com/MoniqueMendoza/streamlit.git
+Members: 
+    Mendoza Monique Antonette
+    Quiacao Aubrey Rose
